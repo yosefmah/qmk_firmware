@@ -69,9 +69,5 @@
             "logical_size": 2048,
             "backing_size": 4096
         }
-    },
-    "build": {
-        "debounce_type": "sym_eager_pk"
-    },
-    "debounce": 20
+    }
 }
